@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
-#Info
+## Info
 
 This project was simply created to introduce 'FOODGASM' to the people. Currently, our app is running on the PlayStore.
 In the upcoming future, we may improve our website.

@@ -1,0 +1,15 @@
+p{
+    position: absolute;
+    margin: 10%;
+    margin-top: 10%;
+    color: white;
+    font-size: 12vw;
+    font-weight: 900;
+    font-family: 'Sigmar One';
+}
+
+img:hover {
+    
+            transition-duration: 2s;
+            transform: rotate(360deg);
+  }

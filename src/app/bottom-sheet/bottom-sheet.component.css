@@ -1,0 +1,25 @@
+.tex{
+    text-align: center;
+    color: rgb(4, 0, 255);
+    font-size: 30px;
+}
+.tex1{
+  text-align: center;
+}
+.tex2{
+  text-align: center;
+  font-size: 24px;
+}
+a:link {
+    color: rgb(4, 0, 255);
+  }
+  
+  a:hover{
+    color: rgb(255, 0, 0);
+  }
+a{
+    text-decoration: none;
+}
+.abc{
+  overflow: hidden;
+}

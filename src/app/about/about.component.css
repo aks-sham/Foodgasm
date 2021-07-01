@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+}
+.B1{
+    height: 115px;
+    top: 0px;
+    position: fixed;
+    font-size: 45px;
+    z-index: 14;
+    background-color: #d7a76c;
+}
+.image{
+    background: url(https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&auto=format&fit=crop&w=1335&q=80);
+    background-size: cover;
+    width: 95%;
+    height: 600px;
+    position: absolute;
+    overflow: hidden;
+    margin: 35px 35px 35px;
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    z-index: 10;
+    width: 745px;
+    height: 600px;
+    background: white;
+    transform: skew(205.25deg);
+    left: -150px;
+}
+pre{
+    font-family: 'Merriweather';
+    font-size: 60px; 
+    z-index: 11;
+    position: relative;
+    color: #14222f;
+    top: 120px;
+}
+.tx{
+    font-size: 25px;
+    padding: 15px;
+    text-align: justify;
+}

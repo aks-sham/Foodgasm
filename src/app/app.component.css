@@ -1,0 +1,16 @@
+.toolhead{
+    height: 85px;
+    padding-left: 125px;
+    background: #0B0C10;
+    background: linear-gradient(to top  , #0B0C10 , #01073f);
+    color: rgb(4, 0, 255) ;
+    position: fixed;
+    font-size: 45px;
+    font-family: 'Oswald';
+    
+}
+.headcomp{
+    color: white;
+    flex: 1 1 auto;
+    
+}

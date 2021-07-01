@@ -1,0 +1,12 @@
+<mat-toolbar class="toolhead">
+    <img  src="./assets/img/logo.png" style="width: 46.66px; height:70px;" alt= "Icon">
+    &nbsp;&nbsp; FOODGASM
+    <a mat-button class="headcomp" routerLink="/home">Home</a>
+    <a mat-button class="headcomp" routerLink="/about">About</a>
+    <a mat-button class="headcomp" (click)="openBottomSheet()"> Get App</a>
+    <a mat-button class="headcomp" routerLink="/newsletter">Newsletter</a>
+    <a mat-button class="headcomp" routerLink="/contact">Contact</a>
+    
+</mat-toolbar>
+
+<router-outlet></router-outlet>

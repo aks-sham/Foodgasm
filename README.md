@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Info
 
-This project was simply created to introduce 'FOODGASM' to the people. Currently, our app is running on the PlayStore.
+This project was simply created to introduce 'FOODGASM' to the people. Currently, our app is running at Google PlayStore.
 In the upcoming future, we may improve our website.
 
 ## Development server
